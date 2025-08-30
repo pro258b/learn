@@ -19,6 +19,7 @@ some airdrop projects - to have some fun in gambling, such as POLYMARKET
 4. address format too old, or used bitcoin address - not quantum safe
 5. hardware wallet compromising
 6. flood
+7. price risk (hedge through option?)
 
 ## Mitigation
 
