@@ -2,7 +2,7 @@
 
 ## Portfolio Diversity
 
-This is almost a false concept - so far the most diversifield and robust network is Bitcoin, if it fails - it's unlikely a good news for its' competitors or 'next bitcoin'
+This is almost a false concept - so far in this social experiment, the most diversifield and robust network is Bitcoin, if it fails - won't be good news for its' competitors or 'next bitcoin'
 
 That said, I will have small exposures to (mostly non-EVM) some potentially interesting things such as:
 Ton - because of Telegram - the largest eco-system
@@ -21,11 +21,32 @@ some airdrop projects - to have some fun in gambling, such as POLYMARKET
 6. flood
 7. price risk (hedge through option?)
 
+## risk for en mass
+Old money trying to reign bitcoin and get bitten hard by its internal volatility, market crash
+national state confiscate?
+
 ## Mitigation
 
 I have been involving people of vastly different age group (from teens to 50s), trying to get them more engaged. A few did start to read, or use fiat to convert a little bit, but almost none of them are willing to do self-custody.
 Teens are mostly not interested in boring 'bitcoin' or 'crypto'
 Therefore they won't be good guardians
+
+## ideology for successors:
+born between Alpha Go era and GPT era: 'you should follow instruction of the machine' -> "you need to know why the machine ask you to do this" with implicit 'if you want to disobey'
+born after GPT era: Delayed satisfaction is important.  ?maybe punctuality is a Prussan style thing that not suit future well?
+
+entropy (Somethings can't be modified/undo)
+violence-initiating is not nice (non violence conflict should have a non-violence solution?)
+
+practice: not consumerism;
+Own Your Data and Decisions
+punctuality being a “Prussian-style thing” not suited for the future?
+Async Collaboration: Use tools like smart contracts or X for global, time-zone-agnostic coordination.
+Example: A DAO vote may have a 7-day window, prioritizing participation over exact timing, unlike industrial-era punctuality.
+
+
+
+
 
 ## to design a action plan, we need below principle:
 
@@ -114,3 +135,38 @@ Critical & Urgent: Items 1, 2, 9
 Critical & Not Urgent: Items 3, 4, 6
 Important & Not Urgent: Items 5, 7, 8, 10
 Remember: Perfect security with zero recoverability is worse than good security with robust recovery options. The goal is resilience, not just protection.
+
+Action PlanSecure Self-Custody Setup (Priority: Immediate)Upgrade Wallets: Replace outdated wallets (e.g., Sollet) with modern, open-source, non-custodial wallets supporting Bitcoin and non-EVM assets (e.g., Sparrow Wallet for Bitcoin, TON Space for TON). Verify compatibility with Taproot addresses for quantum resistance.
+Implement Multisig: Set up a 2-of-3 multisig wallet for Bitcoin holdings using multiple hardware wallets (e.g., Trezor, Ledger, Coldcard). Store each device in a separate, secure location.
+Validate Backups: Test seed phrase backups for all wallets at least quarterly. Use metal seed storage (e.g., Billfodl) to protect against physical damage like floods. Store backups in at least two geographically distinct locations (e.g., home safe and a bank safety deposit box).
+Schedule: Complete wallet upgrades and multisig setup within 1 month. Conduct first backup validation within 2 weeks.
+
+Mitigate Physical and Environmental Risks (Priority: High)Geographic Redundancy: Store one backup in a secure, flood-resistant location outside the primary residence (e.g., a trusted family member’s home in a different city or a bank vault). Ensure the location is accessible but secure.
+Disaster Recovery Plan: Create a written recovery plan detailing wallet access, seed phrase locations, and emergency contacts. Share encrypted instructions with a trusted lawyer or use a dead-man’s switch service (e.g., Safe Haven) to ensure access in case of a traffic incident or incapacitation.
+Schedule: Establish offsite backup and recovery plan within 2 months.
+
+Enhance Hardware Wallet Security (Priority: High)Multiple Devices: Purchase at least two additional hardware wallets from different manufacturers to reduce single-point-of-failure risks. Initialize and test them within 1 month.
+Secure Storage: Store hardware wallets in tamper-evident bags and use passphrases for an additional layer of security. Keep passphrases separate from seed phrases and memorize critical ones.
+Regular Audits: Check hardware wallets for signs of tampering every 6 months. Update firmware promptly to address vulnerabilities.
+Schedule: Acquire additional hardware wallets within 1 month; set up passphrases and audit schedule immediately.
+
+Portfolio Management (Priority: Medium)Bitcoin Core: Allocate at least 80% of the portfolio to Bitcoin, held in the multisig setup. Use Lightning Network wallets (e.g., Phoenix, Muun) for small, frequent transactions to leverage layer-2 efficiency.
+Non-EVM and Airdrop Positions: Limit speculative holdings (TON, UNI, Polymarket, etc.) to 10-15% of the portfolio. Store these in separate, secure wallets and review their performance quarterly. Exit any airdrop project showing no traction after 6 months.
+Cashu/Fedimint Exploration: Experiment with Cashu or Fedimint for private, community-based Bitcoin transactions. Join a trusted Fedimint federation or test Cashu for small-scale use within 3 months.
+Schedule: Review portfolio allocation monthly; set up Cashu/Fedimint test within 3 months.
+
+Address Quantum Risk (Priority: Medium)Adopt Taproot: Transition Bitcoin holdings to Taproot addresses (BIP-86) for improved privacy and potential quantum resistance. Use wallets like Sparrow or BlueWallet that support Taproot.
+Monitor Quantum Developments: Follow updates from Bitcoin Core developers and quantum computing research to stay informed about future risks. Reassess address formats annually.
+Schedule: Complete transition to Taproot addresses within 3 months; schedule annual quantum risk review.
+
+Engage Others Without Reliance (Priority: Low)Educational Resources: Share beginner-friendly resources (e.g., “The Bitcoin Standard” audiobook, short YouTube explainers) with teens and others to spark interest in Bitcoin. Avoid pushing self-custody until they show initiative.
+Incentives: Offer small Bitcoin rewards (e.g., 1,000 sats via Lightning) for completing educational tasks, but don’t rely on them as guardians.
+Alternative Guardians: Identify 1-2 trusted adults (e.g., in their 30s or 40s) with technical interest to act as emergency contacts for recovery plans, rather than teens. Share encrypted recovery instructions with them.
+Schedule: Distribute educational resources within 1 month; identify potential guardians within 2 months.
+
+Continuous Monitoring and Improvement (Priority: Ongoing)Security Updates: Subscribe to security alerts from wallet providers and Bitcoin news sources (e.g., Bitcoin Magazine, X posts from @Bitcoin
+). Check for updates monthly.
+Community Engagement: Join Bitcoin-focused communities on X or forums like BitcoinTalk to stay updated on best practices and emerging risks.
+Annual Review: Conduct a full review of wallets, backups, and portfolio allocation every 12 months to ensure alignment with goals and security standards.
+
+
